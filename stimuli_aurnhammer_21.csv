@@ -1,0 +1,481 @@
+Sentence,Target,Completion,Item,Condition
+"Gestern schärfte der Holzfäller, bevor er das Holz stapelte,",die Axt,und hackte die Holzscheite.,1,A
+"Gestern schärfte der Holzfäller, bevor er den Film schaute,",die Axt,und hackte die Holzscheite.,1,B
+"Gestern aß der Holzfäller, bevor er das Holz stapelte,",die Axt,und hackte die Holzscheite.,1,C
+"Gestern aß der Holzfäller, bevor er den Film schaute,",die Axt,und hackte die Holzscheite.,1,D
+"Nachdenklich schärft der Barbier, nachdem er den Rasierschaum aufgetragen hat,",das Messer,und rasiert den Kunden.,2,A
+"Nachdenklich schärft der Barbier, nachdem er die Topfpflanze gegossen hat,",das Messer,und rasiert den Kunden.,2,B
+"Nachdenklich trinkt der Barbier, nachdem er den Rasierschaum aufgetragen hat,",das Messer,und rasiert den Kunden.,2,C
+"Nachdenklich trinkt der Barbier, nachdem er die Topfpflanze gegossen hat,",das Messer,und rasiert den Kunden.,2,D
+"Sogleich süßt der Kellner, nachdem er die Bestellung aufgenommen hat,",den Kaffee,und gießt die Milch dazu.,3,A
+"Sogleich süßt der Kellner, nachdem er das Radio angemacht hat,",den Kaffee,und gießt die Milch dazu.,3,B
+"Sogleich putzt der Kellner, nachdem er die Bestellung aufgenommen hat,",den Kaffee,und gießt die Milch dazu.,3,C
+"Sogleich putzt der Kellner, nachdem er das Radio angemacht hat,",den Kaffee,und gießt die Milch dazu.,3,D
+"Vorsichtig erhitzt der Bäckerlehrling, nachdem er die Brötchen geformt hat,",den Ofen,auf 180 Grad.,4,A
+"Vorsichtig erhitzt der Bäckerlehrling, nachdem er die Fenster gekippt hat,",den Ofen,auf 180 Grad.,4,B
+"Vorsichtig schlürft der Bäckerlehrling, nachdem er die Brötchen geformt hat,",den Ofen,auf 180 Grad.,4,C
+"Vorsichtig schlürft der Bäckerlehrling, nachdem er die Fenster gekippt hat,",den Ofen,auf 180 Grad.,4,D
+"Zufrieden entkorkt der Winzer, der die Reben geschnitten hat,",die Weinflasche,für die Weinprobe.,5,A
+"Zufrieden entkorkt der Winzer, der die Lohnabrechnungen beendet hat,",die Weinflasche,für die Weinprobe.,5,B
+"Zufrieden glättet der Winzer, der die Reben geschnitten hat,",die Weinflasche,für die Weinprobe.,5,C
+"Zufrieden glättet der Winzer, der die Lohnabrechnungen beendet hat,",die Weinflasche,für die Weinprobe.,5,D
+"Umgehend löst der Fahrgast, der den Automaten bedient,",das Ticket,für die Fahrt.,6,A
+"Umgehend löst der Fahrgast, der die Einkaufstasche abstellt,",das Ticket,für die Fahrt.,6,B
+"Umgehend knotet der Fahrgast, der den Automaten bedient,",das Ticket,für die Fahrt.,6,C
+"Umgehend knotet der Fahrgast, der die Einkaufstasche abstellt,",das Ticket,für die Fahrt.,6,D
+"Am Abend feiert der Gewinner, der den Pokal erhält,",den Sieg,mit einer Party.,7,A
+"Am Abend feiert der Gewinner, der das Eis isst,",den Sieg,mit einer Party.,7,B
+"Am Abend knabbert der Gewinner, der den Pokal erhält,",den Sieg,mit einer Party.,7,C
+"Am Abend knabbert der Gewinner, der das Eis isst,",den Sieg,mit einer Party.,7,D
+"Endlich fängt der Angler, der den Köder auswarf,",den Fisch,für das Abendessen.,8,A
+"Endlich fängt der Angler, der die Zeitung las,",den Fisch,für das Abendessen.,8,B
+"Endlich baut der Angler, der den Köder auswarf,",den Fisch,für das Abendessen.,8,C
+"Endlich baut der Angler, der die Zeitung las,",den Fisch,für das Abendessen.,8,D
+"Am Nachmittag jätete der Schrebergärtner, der das Beet pflegte,",das Unkraut,und leerte den Kompost.,9,A
+"Am Nachmittag jätete der Schrebergärtner, der die Sonne genoss,",das Unkraut,und leerte den Kompost.,9,B
+"Am Nachmittag polierte der Schrebergärtner, der das Beet pflegte,",das Unkraut,und leerte den Kompost.,9,C
+"Am Nachmittag polierte der Schrebergärtner, der die Sonne genoss,",das Unkraut,und leerte den Kompost.,9,D
+"Eine Weile lüftet der Lehrer, bevor er die Tafel beschreibt,",das Klassenzimmer,und nimmt ein Stück Kreide.,10,A
+"Eine Weile lüftet der Lehrer, bevor er den Mantel aufhängt,",das Klassenzimmer,und nimmt ein Stück Kreide.,10,B
+"Eine Weile bastelt der Lehrer, bevor er die Tafel beschreibt,",das Klassenzimmer,und nimmt ein Stück Kreide.,10,C
+"Eine Weile bastelt der Lehrer, bevor er den Mantel aufhängt,",das Klassenzimmer,und nimmt ein Stück Kreide.,10,D
+"Schnell reibt der Chefkoch, während er die Nudeln kocht,",den Käse,und gibt Öl in die Pfanne.,11,A
+"Schnell reibt der Chefkoch, während er die Nachrichten hört,",den Käse,und gibt Öl in die Pfanne.,11,B
+"Schnell flickt der Chefkoch, während er die Nudeln kocht,",den Käse,und gibt Öl in die Pfanne.,11,C
+"Schnell flickt der Chefkoch, während er die Nachrichten hört,",den Käse,und gibt Öl in die Pfanne.,11,D
+"Vorgestern probierte der Braumeister, nachdem er den Kessel ausgeschaltet hatte,",das Bier,das zuvor gebraut wurde.,12,A
+"Vorgestern probierte der Braumeister, nachdem er den Boden gewischt hatte,",das Bier,das zuvor gebraut wurde.,12,B
+"Vorgestern bemalte der Braumeister, nachdem er den Kessel ausgeschaltet hatte,",das Bier,das zuvor gebraut wurde.,12,C
+"Vorgestern bemalte der Braumeister, nachdem er den Boden gewischt hatte,",das Bier,das zuvor gebraut wurde.,12,D
+"Eine Zeit lang mähte der Gartenhelfer, nachdem er den Garten umgegraben hatte,",den Rasen,hinter der Villa.,13,A
+"Eine Zeit lang mähte der Gartenhelfer, nachdem er die Garage aufgeräumt hatte,",den Rasen,hinter der Villa.,13,B
+"Eine Zeit lang räucherte der Gartenhelfer, nachdem er den Garten umgegraben hatte,",den Rasen,hinter der Villa.,13,C
+"Eine Zeit lang räucherte der Gartenhelfer, nachdem er die Garage aufgeräumt hatte,",den Rasen,hinter der Villa.,13,D
+"Achtsam pflasterte der Bauarbeiter, der die Absperrungen umging,",die Straße,und den Bürgersteig.,14,A
+"Achtsam pflasterte der Bauarbeiter, der die Steine schleppte,",die Straße,und den Bürgersteig.,14,B
+"Achtsam salzte der Bauarbeiter, der die Absperrungen umging,",die Straße,und den Bürgersteig.,14,C
+"Achtsam salzte der Bauarbeiter, der die Steine schleppte,",die Straße,und den Bürgersteig.,14,D
+"Gestern läutete der Priester, nachdem er den Kirchturm erklommen hatte,",die Glocken,und freute sich.,15,A
+"Gestern läutete der Priester, nachdem er die Armbanduhr ausgezogen hatte,",die Glocken,und freute sich.,15,B
+"Gestern faltete der Priester, nachdem er den Kirchturm erklommen hatte,",die Glocken,und freute sich.,15,C
+"Gestern faltete der Priester, nachdem er die Armbanduhr ausgezogen hatte,",die Glocken,und freute sich.,15,D
+"Rasch näht der Notarzt, der den Verletzten betreut,",die Wunde,mit fünf Stichen.,16,A
+"Rasch näht der Notarzt, der den Ohrring trägt,",die Wunde,mit fünf Stichen.,16,B
+"Rasch versteckt der Notarzt, der den Verletzten betreut,",die Wunde,mit fünf Stichen.,16,C
+"Rasch versteckt der Notarzt, der den Ohrring trägt,",die Wunde,mit fünf Stichen.,16,D
+"Eilig bügelt der Geschäftsmann, nachdem er das Bügelbrett aufgestellt hat,",das Hemd,und die Hose.,17,A
+"Eilig bügelt der Geschäftsmann, nachdem er den Eistee ausgetrunken hat,",das Hemd,und die Hose.,17,B
+"Eilig salzt der Geschäftsmann, nachdem er das Bügelbrett aufgestellt hat,",das Hemd,und die Hose.,17,C
+"Eilig salzt der Geschäftsmann, nachdem er den Eistee ausgetrunken hat,",das Hemd,und die Hose.,17,D
+"Schnell repariert der KFZ-Mechatroniker, der den Motor ausgetauscht hat,",das Auto,und übergibt es an den Kunden.,18,A
+"Schnell repariert der KFZ-Mechatroniker, der den Urlaub gebucht hat,",das Auto,und übergibt es an den Kunden.,18,B
+"Schnell brät der KFZ-Mechatroniker, der den Motor ausgetauscht hat,",das Auto,und übergibt es an den Kunden.,18,C
+"Schnell brät der KFZ-Mechatroniker, der den Urlaub gebucht hat,",das Auto,und übergibt es an den Kunden.,18,D
+"Am Morgen knetet die Bäckerin, die den Kuchen backt,",den Teig,für das Brot.,19,A
+"Am Morgen knetet die Bäckerin, die den Stammgast begrüßt,",den Teig,für das Brot.,19,B
+"Am Morgen hört die Bäckerin, die den Kuchen backt,",den Teig,für das Brot.,19,C
+"Am Morgen hört die Bäckerin, die den Stammgast begrüßt,",den Teig,für das Brot.,19,D
+"Am Nachmittag pfeffert der Grillmeister, bevor er die Kohle anzündet,",das Steak,und die Beilagen.,20,A
+"Am Nachmittag pfeffert der Grillmeister, bevor er die Mücke verscheucht,",das Steak,und die Beilagen.,20,B
+"Am Nachmittag druckt der Grillmeister, bevor er die Kohle anzündet,",das Steak,und die Beilagen.,20,C
+"Am Nachmittag druckt der Grillmeister, bevor er die Mücke verscheucht,",das Steak,und die Beilagen.,20,D
+"Schnell entfacht der Brandstifter, der das Streichholz fallengelassen hat,",das Feuer,und rennt weg.,21,A
+"Schnell entfacht der Brandstifter, der die Treppe hochgeklettert ist,",das Feuer,und rennt weg.,21,B
+"Schnell entstaubt der Brandstifter, der das Streichholz fallengelassen hat,",das Feuer,und rennt weg.,21,C
+"Schnell entstaubt der Brandstifter, der die Treppe hochgeklettert ist,",das Feuer,und rennt weg.,21,D
+"Nun kämmt der Friseur, nachdem er die Kopfhaut massiert hat,",die Haare,und holt den Föhn.,22,A
+"Nun kämmt der Friseur, nachdem er den Cappuccino ausgetrunken hat,",die Haare,und holt den Föhn.,22,B
+"Nun speichert der Friseur, nachdem er die Kopfhaut massiert hat,",die Haare,und holt den Föhn.,22,C
+"Nun speichert der Friseur, nachdem er den Cappuccino ausgetrunken hat,",die Haare,und holt den Föhn.,22,D
+"Flink spitzte der Zeichner, der die Karikatur entwarf,",den Bleistift,und machte sich wieder an die Arbeit.,23,A
+"Flink spitzte der Zeichner, der den Atlas öffnete,",den Bleistift,und machte sich wieder an die Arbeit.,23,B
+"Flink knotete der Zeichner, der die Karikatur entwarf,",den Bleistift,und machte sich wieder an die Arbeit.,23,C
+"Flink knotete der Zeichner, der den Atlas öffnete,",den Bleistift,und machte sich wieder an die Arbeit.,23,D
+"Heute impft der Arzt, nachdem er die Spritze befüllt hat,",den Patienten,gegen Tetanus.,24,A
+"Heute impft der Arzt, nachdem er die Schublade geschlossen hat,",den Patienten,gegen Tetanus.,24,B
+"Heute feuert der Arzt, nachdem er die Spritze befüllt hat,",den Patienten,gegen Tetanus.,24,C
+"Heute feuert der Arzt, nachdem er die Schublade geschlossen hat,",den Patienten,gegen Tetanus.,24,D
+"Unverzüglich obduziert der Pathologe, nachdem er die Mordakte gelesen hat,",die Leiche,in der Leichenhalle.,25,A
+"Unverzüglich obduziert der Pathologe, nachdem er das Dokument unterschrieben hat,",die Leiche,in der Leichenhalle.,25,B
+"Unverzüglich pfeffert der Pathologe, nachdem er die Mordakte gelesen hat,",die Leiche,in der Leichenhalle.,25,C
+"Unverzüglich pfeffert der Pathologe, nachdem er das Dokument unterschrieben hat,",die Leiche,in der Leichenhalle.,25,D
+"Am Nachmittag signiert der Autor, der die Geschichte erfunden hat,",das Buch,für den Fan.,26,A
+"Am Nachmittag signiert der Autor, der den Vorhang zugezogen hat,",das Buch,für den Fan.,26,B
+"Am Nachmittag schluckt der Autor, der die Geschichte erfunden hat,",das Buch,für den Fan.,26,C
+"Am Nachmittag schluckt der Autor, der den Vorhang zugezogen hat,",das Buch,für den Fan.,26,D
+"Sofort begrüßte der Hotelier, der die Koffer stapelte,",die Gäste,und überreichte ihnen die Schlüssel.,27,A
+"Sofort begrüßte der Hotelier, der die Fische räucherte,",die Gäste,und überreichte ihnen die Schlüssel.,27,B
+"Sofort feuerte der Hotelier, der die Koffer stapelte,",die Gäste,und überreichte ihnen die Schlüssel.,27,C
+"Sofort feuerte der Hotelier, der die Fische räucherte,",die Gäste,und überreichte ihnen die Schlüssel.,27,D
+"Vorsichtig fällt der Holzarbeiter, der die Säge gestartet hat,",den Baum,neben der Schule.,28,A
+"Vorsichtig fällt der Holzarbeiter, der den Transporter geparkt hat,",den Baum,neben der Schule.,28,B
+"Vorsichtig durchwühlt der Holzarbeiter, der die Säge gestartet hat,",den Baum,neben der Schule.,28,C
+"Vorsichtig durchwühlt der Holzarbeiter, der den Transporter geparkt hat,",den Baum,neben der Schule.,28,D
+"Langsam paffte der Kubaner, der den Rauchring blies,",die Zigarre,und schlenderte über den Marktplatz.,29,A
+"Langsam paffte der Kubaner, der die Straßenbahn verpasste,",die Zigarre,und schlenderte über den Marktplatz.,29,B
+"Langsam öffnete der Kubaner, der den Rauchring blies,",die Zigarre,und schlenderte über den Marktplatz.,29,C
+"Langsam öffnete der Kubaner, der die Straßenbahn verpasste,",die Zigarre,und schlenderte über den Marktplatz.,29,D
+"Fröhlich paniert der Koch, nachdem er die Bratkartoffeln geschält hat,",das Schnitzel,für das Gericht.,30,A
+"Fröhlich paniert der Koch, nachdem er die Ärmel hochgekrempelt hat,",das Schnitzel,für das Gericht.,30,B
+"Fröhlich baut der Koch, nachdem er die Bratkartoffeln geschält hat,",das Schnitzel,für das Gericht.,30,C
+"Fröhlich baut der Koch, nachdem er die Ärmel hochgekrempelt hat,",das Schnitzel,für das Gericht.,30,D
+"Umsichtig glasiert der Konditor, der die Backform eingefettet hat,",den Kuchen,für die Geburtstagsfeier.,31,A
+"Umsichtig glasiert der Konditor, der den Tisch abgewischt hat,",den Kuchen,für die Geburtstagsfeier.,31,B
+"Umsichtig durchsucht der Konditor, der die Backform eingefettet hat,",den Kuchen,für die Geburtstagsfeier.,31,C
+"Umsichtig durchsucht der Konditor, der den Tisch abgewischt hat,",den Kuchen,für die Geburtstagsfeier.,31,D
+"Gestern ölte der Fahrradfahrer, bevor er die Bremse einstellte,",die Kette,und die Bremsen.,32,A
+"Gestern ölte der Fahrradfahrer, bevor er die Limonade trank,",die Kette,und die Bremsen.,32,B
+"Gestern beheizte der Fahrradfahrer, bevor er die Bremse einstellte,",die Kette,und die Bremsen.,32,C
+"Gestern beheizte der Fahrradfahrer, bevor die Limonade trank,",die Kette,und die Bremsen.,32,D
+"Hastig frankiert der Postbeamte, der das Postamt aufgeschlossen hat,",den Brief,an die Agentur.,33,A
+"Hastig frankiert der Postbeamte, der das Mittagessen bestellt hat,",den Brief,an die Agentur.,33,B
+"Hastig umgeht der Postbeamte, der das Postamt aufgeschlossen hat,",den Brief,an die Agentur.,33,C
+"Hastig umgeht der Postbeamte, der das Mittagessen bestellt hat,",den Brief,an die Agentur.,33,D
+"Fröhlich erklimmt der Wanderer, nachdem er das Tal durchquert hat,",den Berg,und stellt sein Zelt auf.,34,A
+"Fröhlich erklimmt der Wanderer, nachdem er die Stoppuhr gestartet hat,",den Berg,und stellt sein Zelt auf.,34,B
+"Fröhlich kauft der Wanderer, nachdem er das Tal durchquert hat,",den Berg,und stellt sein Zelt auf.,34,C
+"Fröhlich kauft der Wanderer, nachdem er die Stoppuhr gestartet hat,",den Berg,und stellt sein Zelt auf.,34,D
+"Bedächtig erteilt der General, der die Rekruten kommandiert,",den Befehl,zum Abmarsch.,35,A
+"Bedächtig erteilt der General, der die Getränke einschenkt,",den Befehl,zum Abmarsch.,35,B
+"Bedächtig biegt der General, der die Rekruten kommandiert,",den Befehl,zum Abmarsch.,35,C
+"Bedächtig biegt der General, der die Getränke einschenkt,",den Befehl,zum Abmarsch.,35,D
+"Sofort streicht der Maler, nachdem er die Tapete angebracht hat,",die Wand,des Büros.,36,A
+"Sofort streicht der Maler, nachdem er den Hund gefüttert hat,",die Wand,des Büros.,36,B
+"Sofort lenkt der Maler, nachdem er die Tapete angebracht hat,",die Wand,des Büros.,36,C
+"Sofort lenkt der Maler, nachdem er den Hund gefüttert hat,",die Wand,des Büros.,36,D
+"Direkt schwingt der Schmied, der den Amboss aufgestellt hat,",den Hammer,auf das Metall.,37,A
+"Direkt schwingt der Schmied, der den Stuhl weggestellt hat,",den Hammer,auf das Metall.,37,B
+"Direkt speichert der Schmied, der den Amboss aufgestellt hat,",den Hammer,auf das Metall.,37,C
+"Direkt speichert der Schmied, der den Stuhl weggestellt hat,",den Hammer,auf das Metall.,37,D
+"Vor langer Zeit regierte der König, der die Reise unternahm,",das Land,im Norden.,38,A
+"Vor langer Zeit regierte der König, der den Gesang vernahm,",das Land,im Norden.,38,B
+"Vor langer Zeit briet der König, der die Reise unternahm,",das Land,im Norden.,38,C
+"Vor langer Zeit briet der König, der den Gesang vernahm,",das Land,im Norden.,38,D
+"Zügig hob der Dirigent, der das Tempo wechselte,",den Stab,und gab den Takt an.,39,A
+"Zügig hob der Dirigent, der das Gähnen unterdrückte,",den Stab,und gab den Takt an.,39,B
+"Zügig verdrückte der Dirigent, der das Tempo wechselte,",den Stab,und gab den Takt an.,39,C
+"Zügig verdrückte der Dirigent, der das Gähnen unterdrückte,",den Stab,und gab den Takt an.,39,D
+"Direkt trimmt der Herrenfriseur, nachdem er die Klinge ausgepackt hat,",den Bart,des Mannes.,40,A
+"Direkt trimmt der Herrenfriseur, nachdem er das Wasserglas abgestellt hat,",den Bart,des Mannes.,40,B
+"Direkt hört der Herrenfriseur, nachdem er die Klinge ausgepackt hat,",den Bart,des Mannes.,40,C
+"Direkt hört der Herrenfriseur, nachdem er das Wasserglas abgestellt hat,",den Bart,des Mannes.,40,D
+"Gestern spülte der Tellerwäscher, bevor er den Tisch wischte,",das Geschirr,und die Brettchen.,41,A
+"Gestern spülte der Tellerwäscher, bevor er das Taxi rief,",das Geschirr,und die Brettchen.,41,B
+"Gestern glättete der Tellerwäscher, bevor er den Tisch wischte,",das Geschirr,und die Brettchen.,41,C
+"Gestern glättete der Tellerwäscher, bevor er das Taxi rief,",das Geschirr,und die Brettchen.,41,D
+"Im Handumdrehen knackt der Einbrecher, der den Zahlencode erraten hat,",das Schloss,und stiehlt die Wertsachen.,42,A
+"Im Handumdrehen knackt der Einbrecher, der die Akte durchblättert hat,",das Schloss,und stiehlt die Wertsachen.,42,B
+"Im Handumdrehen kopiert der Einbrecher, der den Zahlencode erraten hat,",das Schloss,und stiehlt die Wertsachen.,42,C
+"Im Handumdrehen kopiert der Einbrecher, der die Akte durchblättert hat,",das Schloss,und stiehlt die Wertsachen.,42,D
+"Routiniert hackte der Küchengehilfe, bevor er die Suppe umrührte,",die Zwiebeln,und den Knoblauch.,43,A
+"Routiniert hackte der Küchengehilfe, bevor er das Radio einschaltete,",die Zwiebeln,und den Knoblauch.,43,B
+"Routiniert schraubte der Küchengehilfe, bevor er die Suppe umrührte,",die Zwiebeln,und den Knoblauch.,43,C
+"Routiniert schraubte der Küchengehilfe, bevor er das Radio einschaltete,",die Zwiebeln,und den Knoblauch.,43,D
+"Umsichtig schmolz der Kerzenzieher, nachdem er den Docht gekürzt hatte,",das Wachs,und fuhr mit der Arbeit fort.,44,A
+"Umsichtig schmolz der Kerzenzieher, nachdem er das Nähkästchen zugeklappt hatte,",das Wachs,und fuhr mit der Arbeit fort.,44,B
+"Umsichtig würzte der Kerzenzieher, nachdem er den Docht gekürzt hatte,",das Wachs,und fuhr mit der Arbeit fort.,44,C
+"Umsichtig würzte der Kerzenzieher, nachdem er das Nähkästchen zugeklappt hatte,",das Wachs,und fuhr mit der Arbeit fort.,44,D
+"Gestern mixte der Barkeeper, der den Wodka geöffnet hatte,",den Cocktail,für den Touristen.,45,A
+"Gestern mixte der Barkeeper, der den Boden gefegt hatte,",den Cocktail,für den Touristen.,45,B
+"Gestern gründete der Barkeeper, der den Wodka geöffnet hatte,",den Cocktail,für den Touristen.,45,C
+"Gestern gründete der Barkeeper, der den Boden gefegt hatte,",den Cocktail,für den Touristen.,45,D
+"Am Abend dirigiert der Kapellmeister, der das Konzert eröffnet hat,",das Orchester,und das Streichquartett.,46,A
+"Am Abend dirigiert der Kapellmeister, der die Unterschriften gesammelt hat,",das Orchester,und das Streichquartett.,46,B
+"Am Abend vernichtet der Kapellmeister, der das Konzert eröffnet hat,",das Orchester,und das Streichquartett.,46,C
+"Am Abend vernichtet der Kapellmeister, der die Unterschriften gesammelt hat,",das Orchester,und das Streichquartett.,46,D
+"Direkt buchstabiert der Sprachschüler, nachdem er das Buch aufgeschlagen hat,",das Wort,und notiert es.,47,A
+"Direkt buchstabiert der Sprachschüler, nachdem er den Pausenhof verlassen hat,",das Wort,und notiert es.,47,B
+"Direkt dekoriert der Sprachschüler, nachdem er das Buch aufgeschlagen hat,",das Wort,und notiert es.,47,C
+"Direkt dekoriert der Sprachschüler, nachdem er den Pausenhof verlassen hat,",das Wort,und notiert es.,47,D
+"Vorsichtig umzäunt der Schäfer, der die Schafe gehütet hat,",die Weide,mit einem Draht.,48,A
+"Vorsichtig umzäunt der Schäfer, der das Mittagessen vergessen hat,",die Weide,mit einem Draht.,48,B
+"Vorsichtig fälscht der Schäfer, der die Schafe gehütet hat,",die Weide,mit einem Draht.,48,C
+"Vorsichtig fälscht der Schäfer, der das Mittagessen vergessen hat,",die Weide,mit einem Draht.,48,D
+"Nachdenklich hält der Pfarrer, nachdem er die Bibel aufgeschlagen hat,",die Predigt,für die Gemeinde.,49,A
+"Nachdenklich hält der Pfarrer, nachdem er die Brille aufgesetzt hat,",die Predigt,für die Gemeinde.,49,B
+"Nachdenklich leert der Pfarrer, nachdem er die Bibel aufgeschlagen hat,",die Predigt,für die Gemeinde.,49,C
+"Nachdenklich leert der Pfarrer, nachdem er die Brille aufgesetzt hat,",die Predigt,für die Gemeinde.,49,D
+"Unverzüglich möblierte der Vermieter, der den Mieter aufgenommen hatte,",die Wohnung,mit neuen Möbeln.,50,A
+"Unverzüglich möblierte der Vermieter, der die Überweisung erhalten hatte,",die Wohnung,mit neuen Möbeln.,50,B
+"Unverzüglich erntete der Vermieter, der den Mieter aufgenommen hatte,",die Wohnung,mit neuen Möbeln.,50,C
+"Unverzüglich erntete der Vermieter, der die Überweisung erhalten hatte,",die Wohnung,mit neuen Möbeln.,50,D
+"Sofort betätigt der Killer, der das Ziel anvisiert hat,",den Abzug,und trifft das Opfer.,51,A
+"Sofort betätigt der Killer, der den Tee abgestellt hat,",den Abzug,und trifft das Opfer.,51,B
+"Sofort knickt der Killer, der das Ziel anvisiert hat,",den Abzug,und trifft das Opfer.,51,C
+"Sofort knickt der Killer, der den Tee abgestellt hat,",den Abzug,und trifft das Opfer.,51,D
+"Heute überbringt der Bote, als er den Empfänger angetroffen hat,",das Paket,mit der Arbeitskleidung.,52,A
+"Heute überbringt der Bote, als er das Foyer durchquert hat,",das Paket,mit der Arbeitskleidung.,52,B
+"Heute erntet der Bote, als er den Empfänger angetroffen hat,",das Paket,mit der Arbeitskleidung.,52,C
+"Heute erntet der Bote, als er das Foyer durchquert hat,",das Paket,mit der Arbeitskleidung.,52,D
+"Schnell schoss der Fußballspieler, der das Fußballfeld überquert hatte,",das Tor,und jubelte über seinen Erfolg.,53,A
+"Schnell schoss der Fußballspieler, der die Jacke ausgezogen hatte,",das Tor,und jubelte über seinen Erfolg.,53,B
+"Schnell spürte der Fußballspieler, der das Fußballfeld überquert hatte,",das Tor,und jubelte über seinen Erfolg.,53,C
+"Schnell spürte der Fußballspieler, der die Jacke ausgezogen hatte,",das Tor,und jubelte über seinen Erfolg.,53,D
+"Konzentriert steuerte der Pilot, der die Stewardess gerufen hatte,",das Flugzeug,durch die Wolken.,54,A
+"Konzentriert steuerte der Pilot, der den Krimi gelesen hatte,",das Flugzeug,durch die Wolken.,54,B
+"Konzentriert faltete der Pilot, der die Stewardess gerufen hatte,",das Flugzeug,durch die Wolken.,54,C
+"Konzentriert faltete der Pilot, der den Krimi gelesen hatte,",das Flugzeug,durch die Wolken.,54,D
+"Rasch entwarf der Architekt, bevor er den Bauplan erstellte,",die Skizze,für den Bauherrn.,55,A
+"Rasch entwarf der Architekt, bevor er den Vortrag schrieb,",die Skizze,für den Bauherrn.,55,B
+"Rasch schüttelte der Architekt, bevor er den Bauplan erstellte,",die Skizze,für den Bauherrn.,55,C
+"Rasch schüttelte der Architekt, bevor er den Vortrag schrieb,",die Skizze,für den Bauherrn.,55,D
+"Geschwind kehrt der Schornsteinfeger, der den Rauch einatmet,",den Kamin,und verlässt das Grundstück.,56,A
+"Geschwind kehrt der Schornsteinfeger, der die Katze verscheucht,",den Kamin,und verlässt das Grundstück.,56,B
+"Geschwind wirft der Schornsteinfeger, der den Rauch einatmet,",den Kamin,und verlässt das Grundstück.,56,C
+"Geschwind wirft der Schornsteinfeger, der die Katze verscheucht,",den Kamin,und verlässt das Grundstück.,56,D
+"Vorgestern gewann der Politiker, der die Stimmen zählte,",die Wahl,zum Minister.,57,A
+"Vorgestern gewann der Politiker, der die Hände schüttelte,",die Wahl,zum Minister.,57,B
+"Vorgestern reparierte der Politiker, der die Stimmen zählte,",die Wahl,zum Minister.,57,C
+"Vorgestern reparierte der Politiker, der die Hände schüttelte,",die Wahl,zum Minister.,57,D
+"Sofort schoss der Reporter, der die Kamera bediente,",das Foto,von der Unfallstelle.,58,A
+"Sofort schoss der Reporter, der die Zigarette rauchte,",das Foto,von der Unfallstelle.,58,B
+"Sofort verspeiste der Reporter, der die Kamera bediente,",das Foto,von der Unfallstelle.,58,C
+"Sofort verspeiste der Reporter, der die Zigarette rauchte,",das Foto,von der Unfallstelle.,58,D
+"Unverzüglich entwickelte der Informatiker, der den Computer hochfuhr,",das Programm,für seinen Boss.,59,A
+"Unverzüglich entwickelte der Informatiker, der den Energydrink trank,",das Programm,für seinen Boss.,59,B
+"Unverzüglich trocknete der Informatiker, der den Computer hochfuhr,",das Programm,für seinen Boss.,59,C
+"Unverzüglich trocknete der Informatiker, der den Energydrink trank,",das Programm,für seinen Boss.,59,D
+"Nun verkündete der Richter, nachdem er den Angeklagten hereingerufen hatte,",das Urteil,und schloss die Verhandlung.,60,A
+"Nun verkündete der Richter, nachdem er die Lesebrille aufgesetzt hatte,",das Urteil,und schloss die Verhandlung.,60,B
+"Nun roch der Richter, nachdem er den Angeklagten hereingerufen hatte,",das Urteil,und schloss die Verhandlung.,60,C
+"Nun roch der Richter, nachdem er die Lesebrille aufgesetzt hatte,",das Urteil,und schloss die Verhandlung.,60,D
+"Zunächst bestand der Student, der das Studium wiederaufnahm,",die Prüfung,in Mathematik.,61,A
+"Zunächst bestand der Student, der das Jackett auszog,",die Prüfung,in Mathematik.,61,B
+"Zunächst kochte der Student, der das Studium wiederaufnahm,",die Prüfung,in Mathematik.,61,C
+"Zunächst kochte der Student, der das Jackett auszog,",die Prüfung,in Mathematik.,61,D
+"Konzentriert sang der Sänger, der das Mikrofon umklammerte,",das Lied,über die Vergangenheit.,62,A
+"Konzentriert sang der Sänger, der den Hut abnahm,",das Lied,über die Vergangenheit.,62,B
+"Konzentriert reparierte der Sänger, der das Mikrofon umklammerte,",das Lied,über die Vergangenheit.,62,C
+"Konzentriert reparierte der Sänger, der den Hut abnahm,",das Lied,über die Vergangenheit.,62,D
+"Zufrieden mischte der Anstreicher, der die Pinsel gewaschen hatte,",die Farbe,für den nächsten Auftrag.,63,A
+"Zufrieden mischte der Anstreicher, der die Plätzchen gegessen hatte,",die Farbe,für den nächsten Auftrag.,63,B
+"Zufrieden würzte der Anstreicher, der die Pinsel gewaschen hatte,",die Farbe,für den nächsten Auftrag.,63,C
+"Zufrieden würzte der Anstreicher, der die Plätzchen gegessen hatte,",die Farbe,für den nächsten Auftrag.,63,D
+"Einen Moment lang gießt der Gärtner, der den Dünger verteilt hat,",die Blumen,im Blumenkasten.,64,A
+"Einen Moment lang gießt der Gärtner, der die Opernmusik angestellt hat,",die Blumen,im Blumenkasten.,64,B
+"Einen Moment lang ölt der Gärtner, der den Dünger verteilt hat,",die Blumen,im Blumenkasten.,64,C
+"Einen Moment lang ölt der Gärtner, der die Opernmusik angestellt hat,",die Blumen,im Blumenkasten.,64,D
+"Gestern Nachmittag stutzte der Landschaftsgärtner, der die Gartenschere geschärft hatte,",die Hecke,um das Grundstück.,65,A
+"Gestern Nachmittag stutzte der Landschaftsgärtner, der die Sonnenbrille aufgesetzt hatte,",die Hecke,um das Grundstück.,65,B
+"Gestern Nachmittag bezahlte der Landschaftsgärtner, der die Gartenschere geschärft hatte,",die Hecke,um das Grundstück.,65,C
+"Gestern Nachmittag bezahlte der Landschaftsgärtner, der die Sonnenbrille aufgesetzt hatte,",die Hecke,um das Grundstück.,65,D
+"Früher beackerte der Landwirt, der den Traktor gestartet hatte,",das Feld,mit einem Gaul.,66,A
+"Früher beackerte der Landwirt, der den Sonnenhut aufgesetzt hatte,",das Feld,mit einem Gaul.,66,B
+"Früher kopierte der Landwirt, der den Traktor gestartet hatte,",das Feld,mit einem Gaul.,66,C
+"Früher kopierte der Landwirt, der den Sonnenhut aufgesetzt hatte,",das Feld,mit einem Gaul.,66,D
+"Heute Morgen flickte der Schuster, der den Absatz ausgetauscht hatte,",den Schuh,und polierte ihn.,67,A
+"Heute Morgen flickte der Schuster, der die Sirene gehört hatte,",den Schuh,und polierte ihn.,67,B
+"Heute Morgen schmeckte der Schuster, der den Absatz ausgetauscht hatte,",den Schuh,und polierte ihn.,67,C
+"Heute Morgen schmeckte der Schuster, der die Sirene gehört hatte,",den Schuh,und polierte ihn.,67,D
+"Schnell packte der Urlauber, als er die Klamotten gefaltet hatte,",den Koffer,für die Kreuzfahrt.,68,A
+"Schnell packte der Urlauber, als er die Gardinen aufgezogen hatte,",den Koffer,für die Kreuzfahrt.,68,B
+"Schnell rührte der Urlauber, als er die Klamotten gefaltet hatte,",den Koffer,für die Kreuzfahrt.,68,C
+"Schnell rührte der Urlauber, als er die Gardinen aufgezogen hatte,",den Koffer,für die Kreuzfahrt.,68,D
+"Sorgfältig erntet der Imker, nachdem er den Bienenstock erreicht hat,",den Honig,aus den Waben.,69,A
+"Sorgfältig erntet der Imker, nachdem er das Haus verlassen hat,",den Honig,aus den Waben.,69,B
+"Sorgfältig näht der Imker, nachdem er den Bienenstock erreicht hat,",den Honig,aus den Waben.,69,C
+"Sorgfältig näht der Imker, nachdem er das Haus verlassen hat,",den Honig,aus den Waben.,69,D
+"Vorsichtig lädt der Jäger, der die Munition verschossen hat,",das Gewehr,und zielt erneut.,70,A
+"Vorsichtig lädt der Jäger, der den Campingplatz verlassen hat,",das Gewehr,und zielt erneut.,70,B
+"Vorsichtig schneidet der Jäger, der die Munition verschossen hat,",das Gewehr,und zielt erneut.,70,C
+"Vorsichtig schneidet der Jäger, der den Campingplatz verlassen hat,",das Gewehr,und zielt erneut.,70,D
+"Vorsichtig mischte der Maurer, der die Backsteine aufeinanderlegte,",den Mörtel,für die Mauer.,71,A
+"Vorsichtig mischte der Maurer, der die Nachbarn belauschte,",den Mörtel,für die Mauer.,71,B
+"Vorsichtig schrieb der Maurer, der die Backsteine aufeinanderlegte,",den Mörtel,für die Mauer.,71,C
+"Vorsichtig schrieb der Maurer, der die Nachbarn belauschte,",den Mörtel,für die Mauer.,71,D
+"Vorgestern mahlte der Müller, der die Mühle betrieb,",das Mehl,aus dem Korn.,72,A
+"Vorgestern mahlte der Müller, der das Lied pfiff,",das Mehl,aus dem Korn.,72,B
+"Vorgestern verzierte der Müller, der die Mühle betrieb,",das Mehl,aus dem Korn.,72,C
+"Vorgestern verzierte der Müller, der das Lied pfiff,",das Mehl,aus dem Korn.,72,D
+"Vorsichtig melkte der Viehzüchter, nachdem er den Stall ausgemistet hatte,",die Kuh,und brachte ihr frisches Heu.,73,A
+"Vorsichtig melkte der Viehzüchter, nachdem er das Gemüse sortiert hatte,",die Kuh,und brachte ihr frisches Heu.,73,B
+"Vorsichtig kleidete der Viehzüchter, nachdem er den Stall ausgemistet hatte,",die Kuh,und brachte ihr frisches Heu.,73,C
+"Vorsichtig kleidete der Viehzüchter, nachdem er das Gemüse sortiert hatte,",die Kuh,und brachte ihr frisches Heu.,73,D
+"Zuerst bezog der Hotelangestellte, nachdem er den Bezug entfaltet hatte,",das Bett,und das Kissen.,74,A
+"Zuerst bezog der Hotelangestellte, nachdem er den Hamburger verspeist hatte,",das Bett,und das Kissen.,74,B
+"Zuerst fälschte der Hotelangestellte, nachdem er den Bezug entfaltet hatte,",das Bett,und das Kissen.,74,C
+"Zuerst fälschte der Hotelangestellte, nachdem er den Hamburger verspeist hatte,",das Bett,und das Kissen.,74,D
+"Augenblicklich erreicht der Sprinter, der das Rennen gewinnt,",das Ziel,und durchtrennt die Ziellinie.,75,A
+"Augenblicklich erreicht der Sprinter, der den Wind genießt,",das Ziel,und durchtrennt die Ziellinie.,75,B
+"Augenblicklich reinigt der Sprinter, der das Rennen gewinnt,",das Ziel,und durchtrennt die Ziellinie.,75,C
+"Augenblicklich reinigt der Sprinter, der den Wind genießt,",das Ziel,und durchtrennt die Ziellinie.,75,D
+"Direkt surft der Surfer, der die Badehose angezogen hat,",die Welle,bis zum Strand.,76,A
+"Direkt surft der Surfer, der den Tagesausflug unternommen hat,",die Welle,bis zum Strand.,76,B
+"Direkt reserviert der Surfer, der die Badehose angezogen hat,",die Welle,bis zum Strand.,76,C
+"Direkt reserviert der Surfer, der den Tagesausflug unternommen hat,",die Welle,bis zum Strand.,76,D
+"Gut gelaunt kontrollierte der Schaffner, der das Zugabteil betreten hatte,",die Fahrkarten,der Pendler.,77,A
+"Gut gelaunt kontrollierte der Schaffner, der die Mittagspause beendet hatte,",die Fahrkarten,der Pendler.,77,B
+"Gut gelaunt zitierte der Schaffner, der das Zugabteil betreten hatte,",die Fahrkarten,der Pendler.,77,C
+"Gut gelaunt zitierte der Schaffner, der die Mittagspause beendet hatte,",die Fahrkarten,der Pendler.,77,D
+"Am Mittag verlegte der Elektriker, nachdem er den Strom abgeschaltet hatte,",die Leitung,im Gebäude.,78,A
+"Am Mittag verlegte der Elektriker, nachdem er den Anwohner informiert hatte,",die Leitung,im Gebäude.,78,B
+"Am Mittag verfasste der Elektriker, nachdem er den Strom abgeschaltet hatte,",die Leitung,im Gebäude.,78,C
+"Am Mittag verfasste der Elektriker, nachdem er den Anwohner informiert hatte,",die Leitung,im Gebäude.,78,D
+"Langsam hisst der Matrose, nachdem er die Taue gekappt hat,",die Segel,des großen Bootes.,79,A
+"Langsam hisst der Matrose, nachdem er die Handschuhe angezogen hat,",die Segel,des großen Bootes.,79,B
+"Langsam verzehrt der Matrose, nachdem er die Taue gekappt hat,",die Segel,des großen Bootes.,79,C
+"Langsam verzehrt der Matrose, nachdem er die Handschuhe angezogen hat,",die Segel,des großen Bootes.,79,D
+"Direkt entspiegelt der Optiker, nachdem er den Sehtest durchgeführt hat,",die Gläser,und spricht mit dem Kollegen.,80,A
+"Direkt entspiegelt der Optiker, nachdem er die Jahresabrechnung aufgestellt hat,",die Gläser,und spricht mit dem Kollegen.,80,B
+"Direkt verschließt der Optiker, nachdem er den Sehtest durchgeführt hat,",die Gläser,und spricht mit dem Kollegen.,80,C
+"Direkt verschließt der Optiker, nachdem er die Jahresabrechnung aufgestellt hat,",die Gläser,und spricht mit dem Kollegen.,80,D
+"Auf der Stelle wirft der Basketballer, der den Ball gedribbelt hat,",den Korb,und holt einen Punkt.,81,A
+"Auf der Stelle wirft der Basketballer, der die Sitzbank verlassen hat,",den Korb,und holt einen Punkt.,81,B
+"Auf der Stelle bucht der Basketballer, der den Ball gedribbelt hat,",den Korb,und holt einen Punkt.,81,C
+"Auf der Stelle bucht der Basketballer, der die Sitzbank verlassen hat,",den Korb,und holt einen Punkt.,81,D
+"Ohne zu zögern knackt der Perlentaucher, der den Meeresgrund erreicht hat,",die Muschel,und holt die Perle.,82,A
+"Ohne zu zögern knackt der Perlentaucher, der die Taschenlampe angemacht hat,",die Muschel,und holt die Perle.,82,B
+"Ohne zu zögern verknotet der Perlentaucher, die den Meeresgrund erreicht hat,",die Muschel,und holt die Perle.,82,C
+"Ohne zu zögern verknotet der Perlentaucher, der die Taschenlampe angemacht hat,",die Muschel,und holt die Perle.,82,D
+"Umsichtig spannt der Schütze, der den Pfeil gespitzt hat,",den Bogen,und feuert den Pfeil ab.,83,A
+"Umsichtig spannt der Schütze, der das Laub zusammengekehrt hat,",den Bogen,und feuert den Pfeil ab.,83,B
+"Umsichtig tippt der Schütze, der den Pfeil gespitzt hat,",den Bogen,und feuert den Pfeil ab.,83,C
+"Umsichtig tippt der Schütze, der das Laub zusammengekehrt hat,",den Bogen,und feuert den Pfeil ab.,83,D
+"Schnell verlegte der Dachdecker, der das Dach abdeckte,",die Ziegel,und beendete den Arbeitstag.,84,A
+"Schnell verlegte der Dachdecker, der den Ehering auszog,",die Ziegel,und beendete den Arbeitstag.,84,B
+"Schnell naschte der Dachdecker, der das Dach abdeckte,",die Ziegel,und beendete den Arbeitstag.,84,C
+"Schnell naschte der Dachdecker, der den Ehering auszog,",die Ziegel,und beendete den Arbeitstag.,84,D
+"Zuerst stapelt der Umzugshelfer, der den Umzugswagen gefahren hat,",die Kartons,und die Kisten.,85,A
+"Zuerst stapelt der Umzugshelfer, der die Firma gegründet hat,",die Kartons,und die Kisten.,85,B
+"Zuerst serviert der Umzugshelfer, der den Umzugswagen gefahren hat,",die Kartons,und die Kisten.,85,C
+"Zuerst serviert der Umzugshelfer, der die Firma gegründet hat,",die Kartons,und die Kisten.,85,D
+"Heute früh schwänzte der Schüler, der die Klasse wiederholt hatte,",den Unterricht,und wurde erwischt.,86,A
+"Heute früh schwänzte der Schüler, der das Handy verloren hatte,",den Unterricht,und wurde erwischt.,86,B
+"Heute früh dekorierte der Schüler, der die Klasse wiederholt hatte,",den Unterricht,und wurde erwischt.,86,C
+"Heute früh dekorierte der Schüler, der das Handy verloren hatte,",den Unterricht,und wurde erwischt.,86,D
+"Am Abend kontrollierte der Türsteher, der den Geldbeutel durchsuchte,",den Ausweis,und ließ die Frau in den Club.,87,A
+"Am Abend kontrollierte der Türsteher, der die Nachtluft genoss,",den Ausweis,und ließ die Frau in den Club.,87,B
+"Am Abend probierte der Türsteher, der den Geldbeutel durchsuchte,",den Ausweis,und ließ die Frau in den Club.,87,C
+"Am Abend probierte der Türsteher, der die Nachtluft genoss,",den Ausweis,und ließ die Frau in den Club.,87,D
+"Umsichtig wechselte der Babysitter, der das Baby geweckt hatte,",die Windel,und warf sie in den Abfall.,88,A
+"Umsichtig wechselte der Babysitter, der den Obstsalat zubereitet hatte,",die Windel,und warf sie in den Abfall.,88,B
+"Umsichtig bastelte der Babysitter, der das Baby geweckt hatte,",die Windel,und warf sie in den Abfall.,88,C
+"Umsichtig bastelte der Babysitter, der den Obstsalat zubereitet hatte,",die Windel,und warf sie in den Abfall.,88,D
+"Langsam stemmte der Bodybuilder, der das Fitnessstudio betreten hatte,",die Gewichte,in die Höhe.,89,A
+"Langsam stemmte der Bodybuilder, der das Licht angemacht hatte,",die Gewichte,in die Höhe.,89,B
+"Langsam verdaute der Bodybuilder, der das Fitnessstudio betreten hatte,",die Gewichte,in die Höhe.,89,C
+"Langsam verdaute der Bodybuilder, der das Licht angemacht hatte,",die Gewichte,in die Höhe.,89,D
+"Umsichtig repariert der Klempner, der das Wasser ausgestellt hat,",das Rohr,im Badezimmer.,90,A
+"Umsichtig repariert der Klempner, der den Kirchenchor geleitet hat,",das Rohr,im Badezimmer.,90,B
+"Umsichtig nascht der Klempner, der das Wasser ausgestellt hat,",das Rohr,im Badezimmer.,90,C
+"Umsichtig nascht der Klempner, der den Kirchenchor geleitet hat,",das Rohr,im Badezimmer.,90,D
+"Schnell schreibt der Journalist, der die Recherche durchgeführt hat,",den Artikel,für die nächste Ausgabe.,91,A
+"Schnell schreibt der Journalist, der das Portemonnaie gefunden hat,",den Artikel,für die nächste Ausgabe.,91,B
+"Schnell lenkt der Journalist, der die Recherche durchgeführt hat,",den Artikel,für die nächste Ausgabe.,91,C
+"Schnell lenkt der Journalist, der das Portemonnaie gefunden hat,",den Artikel,für die nächste Ausgabe.,91,D
+"Heute Morgen flickte der Radler, der die Luftpumpe benutzt hatte,",den Reifen,an seinem Rad.,92,A
+"Heute Morgen flickte der Radler, der den Schrank abgeschlossen hatte,",den Reifen,an seinem Rad.,92,B
+"Heute Morgen trank der Radler, der die Luftpumpe benutzt hatte,",den Reifen,an seinem Rad.,92,C
+"Heute Morgen trank der Radler, der den Schrank abgeschlossen hatte,",den Reifen,an seinem Rad.,92,D
+"Umgehend entleert der Postbote, der das Postauto geparkt hat,",den Briefkasten,und fährt weiter.,93,A
+"Umgehend entleert der Postbote, der den Kugelschreiber verloren hat,",den Briefkasten,und fährt weiter.,93,B
+"Umgehend verdrückt der Postbote, der das Postauto geparkt hat,",den Briefkasten,und fährt weiter.,93,C
+"Umgehend verdrückt der Postbote, der den Kugelschreiber verloren hat,",den Briefkasten,und fährt weiter.,93,D
+"Hektisch kauft der Junkie, der den Dealer angerufen hat,",die Drogen,für die nächste Woche.,94,A
+"Hektisch kauft der Junkie, der die Kapuze aufgezogen hat,",die Drogen,für die nächste Woche.,94,B
+"Hektisch näht der Junkie, der den Dealer angerufen hat,",die Drogen,für die nächste Woche.,94,C
+"Hektisch näht der Junkie, der die Kapuze aufgezogen hat,",die Drogen,für die nächste Woche.,94,D
+"Zügig leerte der Müllmann, der den Müllwagen geparkt hatte,",die Tonne,und sprang auf den Müllwagen.,95,A
+"Zügig leerte der Müllmann, der den Hausbesitzer gegrüßt hatte,",die Tonne,und sprang auf den Müllwagen.,95,B
+"Zügig bastelte der Müllmann, der den Müllwagen geparkt hatte,",die Tonne,und sprang auf den Müllwagen.,95,C
+"Zügig bastelte der Müllmann, der den Hausbesitzer gegrüßt hatte,",die Tonne,und sprang auf den Müllwagen.,95,D
+"Hektisch knallte der Reiter, der das Pferd ritt,",die Peitsche,und gab die Sporen.,96,A
+"Hektisch knallte der Reiter, der die Landschaft durchquerte,",die Peitsche,und gab die Sporen.,96,B
+"Hektisch verfasste der Reiter, der das Pferd ritt,",die Peitsche,und gab die Sporen.,96,C
+"Hektisch verfasste der Reiter, der die Landschaft durchquerte,",die Peitsche,und gab die Sporen.,96,D
+"Nach kurzem Überlegen zückte der Gangster, der die Bank überfiel,",die Waffe,und verlangte das Geld.,97,A
+"Nach kurzem Überlegen zückte der Gangster, der den Bus betrat,",die Waffe,und verlangte das Geld.,97,B
+"Nach kurzem Überlegen gründete der Gangster, der die Bank überfiel,",die Waffe,und verlangte das Geld.,97,C
+"Nach kurzem Überlegen gründete der Gangster, der den Bus betrat,",die Waffe,und verlangte das Geld.,97,D
+"Zufrieden kaperte der Pirat, der die Flagge hisste,",das Schiff,und übernahm das Kommando.,98,A
+"Zufrieden kaperte der Pirat, der die Fehde austrug,",das Schiff,und übernahm das Kommando.,98,B
+"Zufrieden verrührte der Pirat, der die Flagge hisste,",das Schiff,und übernahm das Kommando.,98,C
+"Zufrieden verrührte der Pirat, der die Fehde austrug,",das Schiff,und übernahm das Kommando.,98,D
+"Sofort kauft der Börsenmakler, der die Börse betreten hat,",die Aktie,und berichtet seinem Auftraggeber.,99,A
+"Sofort kauft der Börsenmakler, der den Whiskey eingeschenkt hat,",die Aktie,und berichtet seinem Auftraggeber.,99,B
+"Sofort knabbert der Börsenmakler, der die Börse betreten hat,",die Aktie,und berichtet seinem Auftraggeber.,99,C
+"Sofort knabbert der Börsenmakler, der den Whiskey eingeschenkt hat,",die Aktie,und berichtet seinem Auftraggeber.,99,D
+"Gestern bohrte der Handwerker, der die Bohrmaschine hielt,",das Loch,in die Decke.,100,A
+"Gestern bohrte der Handwerker, der das Kaugummi kaute,",das Loch,in die Decke.,100,B
+"Gestern warf der Handwerker, der die Bohrmaschine hielt,",das Loch,in die Decke.,100,C
+"Gestern warf der Handwerker, der das Kaugummi kaute,",das Loch,in die Decke.,100,D
+"Am Morgen misst der Arzthelfer, der das Messgerät hält,",den Blutdruck,und den Blutzucker.,101,A
+"Am Morgen misst der Arzthelfer, der den Bildschirm anstellt,",den Blutdruck,und den Blutzucker.,101,B
+"Am Morgen kauft der Arzthelfer, der das Messgerät hält,",den Blutdruck,und den Blutzucker.,101,C
+"Am Morgen kauft der Arzthelfer, der den Bildschirm anstellt,",den Blutdruck,und den Blutzucker.,101,D
+"Konzentriert schwang der Torero, der den Stier verwundet hatte,",das Tuch,und machte sich bereit.,102,A
+"Konzentriert schwang der Torero, der das Gebet aufgesagt hatte,",das Tuch,und machte sich bereit.,102,B
+"Konzentriert befüllte der Torero, der den Stier verwundet hatte,",das Tuch,und machte sich bereit.,102,C
+"Konzentriert befüllte der Torero, der das Gebet aufgesagt hatte,",das Tuch,und machte sich bereit.,102,D
+"Angespannt zückte der Ritter, nachdem er den Kampf begonnen hatte,",das Schwert,und griff den Gegner an.,103,A
+"Angespannt zückte der Ritter, nachdem er die Brücke überquert hatte,",das Schwert,und griff den Gegner an.,103,B
+"Angespannt kaute der Ritter, nachdem er den Kampf begonnen hatte,",das Schwert,und griff den Gegner an.,103,C
+"Angespannt kaute der Ritter, nachdem er die Brücke überquert hatte,",das Schwert,und griff den Gegner an.,103,D
+"Wachsam steuert der Sanitäter, der das Blaulicht eingeschaltet hat,",den Rettungswagen,in Richtung des Krankenhauses.,104,A
+"Wachsam steuert der Sanitäter, der den Notizblock weggelegt hat,",den Rettungswagen,in Richtung des Krankenhauses.,104,B
+"Wachsam kopiert der Sanitäter, der das Blaulicht eingeschaltet hat,",den Rettungswagen,in Richtung des Krankenhauses.,104,C
+"Wachsam kopiert der Sanitäter, der den Notizblock weggelegt hat,",den Rettungswagen,in Richtung des Krankenhauses.,104,D
+"Ohne zu zögern verweigerte der Zeuge, der den Angeklagten wiedererkannte,",die Aussage,und wendete sich an seinen Anwalt.,105,A
+"Ohne zu zögern verweigerte der Zeuge, der den Gehstock umklammerte,",die Aussage,und wendete sich an seinen Anwalt.,105,B
+"Ohne zu zögern bestellte der Zeuge, der den Angeklagten wiedererkannte,",die Aussage,und wendete sich an seinen Anwalt.,105,C
+"Ohne zu zögern bestellte der Zeuge, der den Gehstock umklammerte,",die Aussage,und wendete sich an seinen Anwalt.,105,D
+"Sogleich schnürt der Eiskunstläufer, der die Eishalle erreicht hat,",die Schlittschuhe,und begibt sich auf die Eisfläche.,106,A
+"Sogleich schnürt der Eiskunstläufer, der das Bonbon gelutscht hat,",die Schlittschuhe,und begibt sich auf die Eisfläche.,106,B
+"Sogleich zerbricht der Eiskunstläufer, der die Eishalle erreicht hat,",die Schlittschuhe,und begibt sich auf die Eisfläche.,106,C
+"Sogleich zerbricht der Eiskunstläufer, der das Bonbon gelutscht hat,",die Schlittschuhe,und begibt sich auf die Eisfläche.,106,D
+"Gut gelaunt schwingt der Cowboy, nachdem er das Pferd gesattelt hatte,",das Lasso,und fängt das Tier ein.,107,A
+"Gut gelaunt schwingt der Cowboy, nachdem er den Kameraden gerufen hat,",das Lasso,und fängt das Tier ein.,107,B
+"Gut gelaunt zerhackt der Cowboy, nachdem er das Pferd gesattelt hatte,",das Lasso,und fängt das Tier ein.,107,C
+"Gut gelaunt zerhackt der Cowboy, nachdem er den Kameraden gerufen hat,",das Lasso,und fängt das Tier ein.,107,D
+"Entspannt schrieb der Regisseur, der den Plot konstruiert hatte,",das Drehbuch,für die Serie.,108,A
+"Entspannt schrieb der Regisseur, der den Kamin angemacht hatte,",das Drehbuch,für die Serie.,108,B
+"Entspannt verzehrte der Regisseur, der den Plot konstruiert hatte,",das Drehbuch,für die Serie.,108,C
+"Entspannt verzehrte der Regisseur, der den Kamin angemacht hatte,",das Drehbuch,für die Serie.,108,D
+"Sofort entdeckt der Astronom, der das Teleskop aufgestellt hat,",den Stern,am Firmament.,109,A
+"Sofort entdeckt der Astronom, der die Uhrzeit notiert hat,",den Stern,am Firmament.,109,B
+"Sofort serviert der Astronom, der das Teleskop aufgestellt hat,",den Stern,am Firmament.,109,C
+"Sofort serviert der Astronom, der die Uhrzeit notiert hat,",den Stern,am Firmament.,109,D
+"Gestern lichtete der Seemann, der das Boot kommandierte,",den Anker,und verließ den Hafen.,110,A
+"Gestern lichtete der Seemann, der den Atem anhielt,",den Anker,und verließ den Hafen.,110,B
+"Gestern kochte der Seemann, der das Boot kommandierte,",den Anker,und verließ den Hafen.,110,C
+"Gestern kochte der Seemann, der den Atem anhielt,",den Anker,und verließ den Hafen.,110,D
+"Am Vormittag knotete der Bergsteiger, nachdem er den Haken festgebohrt hatte,",das Seil,um den Aufstieg abzusichern.,111,A
+"Am Vormittag knotete der Bergsteiger, nachdem er die Krähe verscheucht hatte,",das Seil,um den Aufstieg abzusichern.,111,B
+"Am Vormittag roch der Bergsteiger, nachdem er den Haken festgebohrt hatte,",das Seil,um den Aufstieg abzusichern.,111,C
+"Am Vormittag roch der Bergsteiger, nachdem er die Krähe verscheucht hatte,",das Seil,um den Aufstieg abzusichern.,111,D
+"Entspannt dreht der Croupier, der den Spieltisch vorbereitet hat,",das Rouletterad,und verrät die nächste Zahl.,112,A
+"Entspannt dreht der Croupier, der die Frau beeindruckt hat,",das Rouletterad,und verrät die nächste Zahl.,112,B
+"Entspannt schlürft der Croupier, der den Spieltisch vorbereitet hat,",das Rouletterad,und verrät die nächste Zahl.,112,C
+"Entspannt schlürft der Croupier, der die Frau beeindruckt hat,",das Rouletterad,und verrät die nächste Zahl.,112,D
+"Neulich feilte die Kosmetikerin, während sie die Maniküre durchführte,",die Nägel,und lackierte sie.,113,A
+"Neulich feilte die Kosmetikerin, während sie das Gespräch belauschte,",die Nägel,und lackierte sie.,113,B
+"Neulich baute die Kosmetikerin, während sie die Maniküre durchführte,",die Nägel,und lackierte sie.,113,C
+"Neulich baute die Kosmetikerin, während sie das Gespräch belauschte,",die Nägel,und lackierte sie.,113,D
+"Sogleich prophezeite der Wahrsager, der die Kristallkugel befragt hatte,",die Zukunft,der Familie.,114,A
+"Sogleich prophezeite der Wahrsager, der die Kerze angezündet hatte,",die Zukunft,der Familie.,114,B
+"Sogleich würzte der Wahrsager, der die Kristallkugel befragt hatte,",die Zukunft,der Familie.,114,C
+"Sogleich würzte der Wahrsager, der die Kerze angezündet hatte,",die Zukunft,der Familie.,114,D
+"Heute beginnt der Archäologe, der die Schaufel hervorgeholt hat,",die Ausgrabung,in der Ruine.,115,A
+"Heute beginnt der Archäologe, der das Taxi genommen hat,",die Ausgrabung,in der Ruine.,115,B
+"Heute raspelt der Archäologe, der die Schaufel hervorgeholt hat,",die Ausgrabung,in der Ruine.,115,C
+"Heute raspelt der Archäologe, der das Taxi genommen hat,",die Ausgrabung,in der Ruine.,115,D
+"Zügig bindet der Florist, der die Rosen gezüchtet hat,",den Strauß,für die Hochzeit.,116,A
+"Zügig bindet der Florist, der die Fenster geschlossen hat,",den Strauß,für die Hochzeit.,116,B
+"Zügig ölt der Florist, der die Rosen gezüchtet hat,",den Strauß,für die Hochzeit.,116,C
+"Zügig ölt der Florist, der die Fenster geschlossen hat,",den Strauß,für die Hochzeit.,116,D
+"Umgehend spielt der Schauspieler, der das Skript auswendig gelernt hat,",die Rolle,für das Theaterstück.,117,A
+"Umgehend spielt der Schauspieler, der die Torte gebacken hat,",die Rolle,für das Theaterstück.,117,B
+"Umgehend schnibbelt der Schauspieler, der das Skript auswendig gelernt hat,",die Rolle,für das Theaterstück.,117,C
+"Umgehend schnibbelt der Schauspieler, der die Torte gebacken hat,",die Rolle,für das Theaterstück.,117,D
+"Am Abend moderiert der Moderator, der die Zuschauer unterhält,",die Sendung,für den Fernsehkanal.,118,A
+"Am Abend moderiert der Moderator, der die Weltmeere bereist,",die Sendung,für den Fernsehkanal.,118,B
+"Am Abend wiegt der Moderator, der die Zuschauer unterhält,",die Sendung,für den Fernsehkanal.,118,C
+"Am Abend wiegt der Moderator, der die Weltmeere bereist,",die Sendung,für den Fernsehkanal.,118,D
+"Ohne zu zögern komponierte der Musiker, der die Noten aufschrieb,",das Stück,für seine nächste Sonate.,119,A
+"Ohne zu zögern komponierte der Musiker, der die Fragen beantwortete,",das Stück,für seine nächste Sonate.,119,B
+"Ohne zu zögern grillte der Musiker, der die Noten aufschrieb,",das Stück,für seine nächste Sonate.,119,C
+"Ohne zu zögern grillte der Musiker, der die Fragen beantwortete,",das Stück,für seine nächste Sonate.,119,D
+"Fröhlich malte der Künstler, der die Leinwand aufgespannt hatte,",das Bild,in seinem Atelier.,120,A
+"Fröhlich malte der Künstler, der den Nachtisch zubereitet hatte,",das Bild,in seinem Atelier.,120,B
+"Fröhlich bewohnte der Künstler, der die Leinwand aufgespannt hatte,",das Bild,in seinem Atelier.,120,C
+"Fröhlich bewohnte der Künstler, der den Nachtisch zubereitet hatte,",das Bild,in seinem Atelier.,120,D
